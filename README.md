@@ -1,5 +1,5 @@
 # GithubRepoCollector
-Sometimes you just want to use bash to grep through public source code and count how many times developers pushed passwords :)
+Sometimes you just want to use bash to grep through public source code and count how many times developers pushed passwords :)  
 
 # Usage
 Usage:  
@@ -28,4 +28,4 @@ https://github.com/my4andle/wannacry_defenders_toolkit.git
 https://github.com/my4andle/oveflow_toolkit.git  
 
 # Example clone all from results file
-for a in $(cat <results_file>); do git clone $a; done
+for a in $(cat <results_file>); do git clone $a; done  

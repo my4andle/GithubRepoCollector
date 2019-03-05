@@ -10,7 +10,7 @@ Options:
   --github_user=<github_user>    Github user to scrub for projects ex: my4andle  
 
 # Example Results
-$ python3 vmware_github_scrub.py --github_user my4andle  
+$ python3 GithubRepoCollector.py --github_user my4andle  
   
 https://github.com/my4andle/vmxnet3Hunter.git  
 https://github.com/my4andle/vmxnet3_hunter.git  
